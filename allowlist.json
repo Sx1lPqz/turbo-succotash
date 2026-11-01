@@ -1,4 +1,4 @@
 {
- "payload": "{\"issued\":1793549628,\"keys\":{\"49723f15e1bf0c16aa327ef02574658cc533dce3efd682c99f9b134ee9cc33ce\":{\"added\":\"2026-11-01\",\"expires\":\"\",\"hwid\":\"E563-E3A4-DA68-9CAC\",\"name\":\"harmself\"}},\"message\":\"\",\"version\":1}",
- "sig": "5d3d8ab478ab5ed98c792e71b9aa869f7034d03bb927ab8bf3b2800e6bf29791fd384ba28f30c6d1bc2ed3772f783e281b3ec8d29b6f7421cf7960bb753c0307"
+ "payload": "{\"issued\":1793549657,\"keys\":{\"49723f15e1bf0c16aa327ef02574658cc533dce3efd682c99f9b134ee9cc33ce\":{\"added\":\"2026-11-01\",\"expires\":\"\",\"hwid\":\"E563-E3A4-DA68-9CAC\",\"name\":\"harmself\"}},\"message\":\"heyy\",\"version\":1}",
+ "sig": "80db498a163ac773d8a58fdf9275bed1ee247cb5b3aeef0f4f6cde52368f2bd739a2efe85dc3b4fb2d0e07fc3d0a745c167504b7c86ff4de205d5b516ae2280d"
 }
